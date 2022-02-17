@@ -8,6 +8,7 @@
 - [ ] be sure methods have descriptive info.
 - [ ] check identation 2 or 4 depending the project.
 - [ ] check doble and single quotes.
+- [ ] remove all console logs
 
 ### vue specific
 - [ ] vue component format should be html snake case `<component-name>`
